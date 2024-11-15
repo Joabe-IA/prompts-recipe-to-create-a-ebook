@@ -17,21 +17,21 @@
 />
 </p>
 
+
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
+<a href="https://github.com/Joabe-IA/Joabe-IA/blob/b27a028d0505ac2596a98ffaff58e604da08bd34/Uni%C3%A3o%20da%20m%C3%A1quina%20e%20criatura-%20IA%20a%20nova%20era%20da%20Revolu%C3%A7%C3%A3o.pdf" title="View PDF now"> 📕 Clique aqui para ler</a>
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Meta Ai do whatsapp] (https://api.whatsapp.com/)
+- [Google doc](https://docs.google.com/)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema do ser humano em parceria da IA , o ebook é do nicho tecnologia e o subnicho é de IA (inteligência artificial), o título deve ser épico e curto, e tenha uma temática do personagem Cirboque do Filme Jovens Titãs , me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em AI com revolução para humanidade, listando os principais tópicos Dessa parceria, Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Meta AI do WhatsApp：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Homem metade máquina (ciborgue) mechendo em um computador com a Sigla IA --v 5.1 |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Meta Ai do WhatsApp
 
 ## 📚 Materiais
 
@@ -62,9 +62,9 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Google Doc, indesign para diagramação.
 
-## 👨‍💻 Expert
+## 👨‍💻 Aluno
 
 <p>
     <img 
@@ -74,19 +74,3 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
