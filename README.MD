@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="IMG-20241113-WA0015.jpg">
+    <img width="100" src="https://github.com/Joabe-IA/Joabe-IA/blob/b27a028d0505ac2596a98ffaff58e604da08bd34/Uni%C3%A3o%20da%20m%C3%A1quina%20e%20criatura-%20IA%20a%20nova%20era%20da%20Revolu%C3%A7%C3%A3o.pdf">
 </p>
 
 
