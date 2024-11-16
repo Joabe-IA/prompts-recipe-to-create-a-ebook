@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src=https://github.com/Joabe-IA/prompts-recipe-to-create-a-ebook/blob/33ff383bfd29f7efe4aeefb5f7f0e1843ee2c286/ebook_cover_with_text%20(4).jpg"  
+    src="https://github.com/Joabe-IA/prompts-recipe-to-create-a-ebook/blob/33ff383bfd29f7efe4aeefb5f7f0e1843ee2c286/ebook_cover_with_text%20(4).jpg"  
 />
 </p>
 
