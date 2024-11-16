@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="ebook_cover_vertical_fixed~2.jpg"
     width="400"  
 />
 </p>
