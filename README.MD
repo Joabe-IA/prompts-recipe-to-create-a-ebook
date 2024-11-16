@@ -12,8 +12,7 @@
 
 <p align="center">
 <img 
-    src="ebook_cover_vertical_fixed~2.jpg"
-    width="400"  
+    src="https://github.com/Joabe-IA/Joabe-IA/blob/1b3bfce9bea9111eeba47a00177de64a7267bbf8/ebook_cover_vertical_fixed~2.jpg"  
 />
 </p>
 
