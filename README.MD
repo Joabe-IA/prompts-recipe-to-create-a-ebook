@@ -71,6 +71,6 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/Joabe-IA/prompts-recipe-to-create-a-ebook/blob/83a5818e50ddf71053b6a9fc17a1b06529454ff3/Screenshot_20241116_092529_File%20Manager%20%2B.jpg"
     />
     <p>https://github.com/Joabe-IA<br>
